@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720" viewBox="0 0 960 720">
+  <defs>
+    <radialGradient id="g3" cx="50%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#ff8c59" stop-opacity="0.2"/>
+      <stop offset="65%" stop-color="#101010" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#050505" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <rect width="960" height="720" fill="url(#g3)"/>
+  <rect x="90" y="110" width="780" height="500" rx="18" fill="#0b0b0b" stroke="#ffffff" stroke-opacity="0.14"/>
+  <text x="150" y="185" fill="#ff8c59" font-family="Arial, sans-serif" font-size="13" letter-spacing="3.5">ACADEMIC PORTAL &amp; REPOSITORY</text>
+  <text x="150" y="275" fill="#f1eee8" font-family="Georgia, serif" font-size="62">Campus-Book</text>
+  <text x="150" y="340" fill="#f1eee8" font-family="Georgia, serif" font-style="italic" font-size="52">Documentation Hub.</text>
+  <text x="150" y="405" fill="#aaa9a4" font-family="Arial, sans-serif" font-size="19">Centralized CS notes, study material, and technical resources.</text>
+  <text x="150" y="475" fill="#ff8c59" font-family="Arial, sans-serif" font-size="13" letter-spacing="2.5">STATIC WEB ARCHITECTURE · GITHUB PAGES · MARKDOWN · CSS</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="660" viewBox="0 0 1440 660">
+  <defs>
+    <radialGradient id="g2" cx="50%" cy="40%" r="65%">
+      <stop offset="0%" stop-color="#ff8c59" stop-opacity="0.18"/>
+      <stop offset="60%" stop-color="#0f1215" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#050505" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <rect width="1440" height="660" fill="url(#g2)"/>
+  <g stroke="#ffffff" stroke-opacity="0.06" stroke-width="1">
+    <line x1="180" y1="0" x2="180" y2="660"/>
+    <line x1="1260" y1="0" x2="1260" y2="660"/>
+    <line x1="0" y1="120" x2="1440" y2="120"/>
+    <line x1="0" y1="540" x2="1440" y2="540"/>
+  </g>
+  <rect x="240" y="150" width="960" height="360" rx="16" fill="#0b0b0b" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="300" y="215" fill="#ff8c59" font-family="Arial, sans-serif" font-size="13" letter-spacing="3.5">INFRASTRUCTURE &amp; CLOUD WEB APPLICATION</text>
+  <text x="300" y="295" fill="#f1eee8" font-family="Georgia, serif" font-size="64">Jal_setu Platform</text>
+  <text x="300" y="355" fill="#aaa9a4" font-family="Arial, sans-serif" font-size="20">Public Utility Monitoring &amp; Water Resource Management</text>
+  <g transform="translate(300, 395)">
+    <rect x="0" y="0" width="220" height="64" rx="10" fill="#121212" stroke="#ffffff" stroke-opacity="0.1"/>
+    <text x="24" y="28" fill="#ff8c59" font-family="Arial, sans-serif" font-size="11" letter-spacing="2">DEPLOYMENT</text>
+    <text x="24" y="48" fill="#f1eee8" font-family="Arial, sans-serif" font-size="15">Render &amp; GitHub Pages</text>
+    <rect x="245" y="0" width="240" height="64" rx="10" fill="#121212" stroke="#ffffff" stroke-opacity="0.1"/>
+    <text x="269" y="28" fill="#ff8c59" font-family="Arial, sans-serif" font-size="11" letter-spacing="2">CI / CD PIPELINE</text>
+    <text x="269" y="48" fill="#f1eee8" font-family="Arial, sans-serif" font-size="15">GitHub Actions Workflow</text>
+    <rect x="510" y="0" width="250" height="64" rx="10" fill="#121212" stroke="#ffffff" stroke-opacity="0.1"/>
+    <text x="534" y="28" fill="#ff8c59" font-family="Arial, sans-serif" font-size="11" letter-spacing="2">ARCHITECTURE</text>
+    <text x="534" y="48" fill="#f1eee8" font-family="Arial, sans-serif" font-size="15">Full-Stack Web &amp; Cloud</text>
+  </g>
+</svg>
